@@ -7,8 +7,8 @@
 - Helse- og oppvekstfag
 - Informasjonsteknologi og medieproduksjon
 
-🎓 **Utdanningstilbud**
-Utdanningen informasjonsteknologi og medieproduksjon vil primært være brukere av denne GitHub-organisasjonen for å lære om grunnleggende IT, programmering, nettverk, samt medieproduksjon som foto, film og grafisk design.
+🎓 **Utdanningstilbud** <br>
+Utdanningen informasjonsteknologi og medieproduksjon (IM) vil primært være brukerne av denne GitHub-organisasjonen for å lære om grunnleggende IT, programmering, nettverk, samt medieproduksjon som foto, film og grafisk design.
 
 🚀 **Mål**
 - Skape et inspirerende læringsmiljø for elevene.
